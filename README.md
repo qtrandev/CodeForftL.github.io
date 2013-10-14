@@ -1,7 +1,7 @@
-http://codeformiami.org
+http://codeforftl.org
 ===================
 
-Landing page for *Code for Miami*, originally a fork of the landing page for *Code for Hampton Roads*
+Landing page for *Code for Ft. Lauderdale*, originally a fork of the landing page for *Code for Miami*
 
 #How to Code for this Repo
 Fork, Edit, then Pull Request when ready.
