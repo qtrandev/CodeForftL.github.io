@@ -193,6 +193,10 @@
       position:relative
     }
 
+    div.calendar {
+        text-align: center;
+    }
+
     /* RESPONSIVE CSS
     -------------------------------------------------- */
 
@@ -270,9 +274,9 @@
       .featurette-heading {
         font-size: 30px;
       }
+
       .featurette .lead {
         font-size: 18px;
         line-height: 1.5;
       }
-
     }
