@@ -200,6 +200,10 @@
     /* RESPONSIVE CSS
     -------------------------------------------------- */
 
+    @media (max-width: 1200px) {
+      .pull-right { width: 600px; }
+    }
+
     @media (max-width: 979px) {
 
       .container.navbar-wrapper {
@@ -223,6 +227,14 @@
         height: auto;
         padding: 0;
       }
+
+      .pull-left {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;   
+        float: inherit;   
+      }
+
       .featurette-image.pull-left,
       .featurette-image.pull-right {
         display: block;
@@ -230,6 +242,8 @@
         max-width: 40%;
         margin: 0 auto 20px;
       }
+
+      /*.featurette.pull-right { width: fill; }*/
 
       .forkme {
         display: none;
